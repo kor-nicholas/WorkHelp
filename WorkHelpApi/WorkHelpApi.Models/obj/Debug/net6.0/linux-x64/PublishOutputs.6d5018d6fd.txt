@@ -1,0 +1,3 @@
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Models.deps.json
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Models.pdb

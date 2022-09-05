@@ -1,0 +1,3 @@
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Tests.dll
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Tests.deps.json
+/home/user/Desktop/WorkHelpApi/publish/WorkHelpApi.Tests.pdb

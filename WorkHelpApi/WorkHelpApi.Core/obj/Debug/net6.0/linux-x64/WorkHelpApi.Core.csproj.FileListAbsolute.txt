@@ -1,0 +1,15 @@
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/bin/Debug/net6.0/linux-x64/WorkHelpApi.Core.deps.json
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/bin/Debug/net6.0/linux-x64/WorkHelpApi.Core.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/bin/Debug/net6.0/linux-x64/WorkHelpApi.Core.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/bin/Debug/net6.0/linux-x64/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/bin/Debug/net6.0/linux-x64/WorkHelpApi.Models.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.csproj.AssemblyReference.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.AssemblyInfoInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.AssemblyInfo.cs
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.csproj.CoreCompileInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.csproj.CopyComplete
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/refint/WorkHelpApi.Core.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/WorkHelpApi.Core.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Core/obj/Debug/net6.0/linux-x64/ref/WorkHelpApi.Core.dll

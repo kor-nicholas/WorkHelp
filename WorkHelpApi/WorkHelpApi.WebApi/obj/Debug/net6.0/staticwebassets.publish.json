@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i8iFuVs3LcsjYU2XPobuLDTQoRS3536P7nVWtYMQkO8=",
+  "Source": "WorkHelpApi.WebApi",
+  "BasePath": "_content/WorkHelpApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

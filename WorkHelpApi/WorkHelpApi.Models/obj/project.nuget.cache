@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tFMa79ZB7q4EaxLesN6UQ678A46CHAEP6AKllqVTwO1PNIwzMJrYwEkXanfJgoXOLrgsmWQLLlDp48S2W3IZw==",
+  "success": true,
+  "projectFilePath": "/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/WorkHelpApi.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

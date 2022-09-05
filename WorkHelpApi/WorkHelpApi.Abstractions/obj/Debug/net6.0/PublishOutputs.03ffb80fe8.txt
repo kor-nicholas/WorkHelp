@@ -1,0 +1,5 @@
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/publish/WorkHelpApi.Abstractions.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/publish/WorkHelpApi.Abstractions.deps.json
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/publish/WorkHelpApi.Abstractions.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/publish/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/publish/WorkHelpApi.Models.pdb

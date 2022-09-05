@@ -1,0 +1,17 @@
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/WorkHelpBot
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/appsettings.json
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/WorkHelpBot.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/WorkHelpBot.deps.json
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/WorkHelpBot.runtimeconfig.json
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/WorkHelpBot.pdb
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Deployf.Botf.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Newtonsoft.Json.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/RandomUserAgent.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Telegram.Bot.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Telegram.Bot.Extensions.Polling.dll
+/home/user/Desktop/WorkHelpBot/bin/Debug/net6.0/publish/Telegram.Bot.Framework.dll

@@ -1,0 +1,12 @@
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/bin/Debug/net6.0/WorkHelpApi.Models.deps.json
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/bin/Debug/net6.0/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/bin/Debug/net6.0/WorkHelpApi.Models.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.csproj.AssemblyReference.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.AssemblyInfoInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.AssemblyInfo.cs
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.csproj.CoreCompileInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/refint/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/WorkHelpApi.Models.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Models/obj/Debug/net6.0/ref/WorkHelpApi.Models.dll

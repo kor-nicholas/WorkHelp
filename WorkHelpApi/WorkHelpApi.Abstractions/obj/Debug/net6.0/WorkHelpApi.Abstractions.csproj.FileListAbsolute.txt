@@ -1,0 +1,15 @@
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/WorkHelpApi.Abstractions.deps.json
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/WorkHelpApi.Abstractions.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/WorkHelpApi.Abstractions.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.csproj.AssemblyReference.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.AssemblyInfoInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.AssemblyInfo.cs
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.csproj.CoreCompileInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/refint/WorkHelpApi.Abstractions.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/ref/WorkHelpApi.Abstractions.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/WorkHelpApi.Models.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/bin/Debug/net6.0/WorkHelpApi.Models.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Abstractions/obj/Debug/net6.0/WorkHelpApi.Abstractions.csproj.CopyComplete

@@ -1,0 +1,12 @@
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/bin/Debug/net6.0/linux-x64/WorkHelpApi.Tests.deps.json
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/bin/Debug/net6.0/linux-x64/WorkHelpApi.Tests.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/bin/Debug/net6.0/linux-x64/WorkHelpApi.Tests.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.csproj.AssemblyReference.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.AssemblyInfoInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.AssemblyInfo.cs
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.csproj.CoreCompileInputs.cache
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/refint/WorkHelpApi.Tests.dll
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/WorkHelpApi.Tests.pdb
+/home/user/Desktop/WorkHelpApi/WorkHelpApi.Tests/obj/Debug/net6.0/linux-x64/ref/WorkHelpApi.Tests.dll
